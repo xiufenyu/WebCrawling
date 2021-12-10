@@ -1,0 +1,249 @@
+==Alberta==
+Banff Mineral Springs Hospital
+Bassano Health Centre
+Alberta Children's Hospital
+Foothills Medical Centre
+Peter Lougheed Centre
+Rockyview General Hospital
+South Health Campus
+Tom Baker Cancer Centre
+Canmore General Hospital
+Alberta Hospital Edmonton
+Cross Cancer Institute
+Devon General Hospital
+Glenrose Rehabilitation Hospital
+Grey Nuns Community Hospital & Health Centre
+Leduc Community Hospital & Health Centre
+Misericordia Community Hospital
+Northeast Community Health Centre
+Royal Alexandra Hospital
+University of Alberta Hospital
+Chinook Regional Hospital
+Lloydminster Hospital
+Medicine Hat Regional Hospital
+Milk River Health Centre
+WestView Health Centre
+Vulcan Community Health Centre
+Whitecourt Healthcare Centre
+
+==British Columbia==
+Abbotsford Regional Hospital and Cancer Centre
+Burnaby Hospital
+Chilliwack General Hospital
+Riverview Hospital
+Delta Hospital
+Fraser Canyon Hospital
+Royal Inland Hospital
+Kelowna General Hospital
+Langley Memorial Hospital
+Ridge Meadows Hospital
+Mission Memorial Hospital
+Nanaimo Regional General Hospital
+Royal Columbian Hospital
+Lions Gate Hospital
+South Okanagan General Hospital
+Eagle Ridge Hospital
+Richmond Hospital
+Saanich Peninsula Hospital
+Surrey Memorial Hospital
+Mills Memorial Hospital
+BC Cancer Agency
+British Columbia's Children's Hospital
+B.C. Women's Hospital & Health Centre
+G. F. Strong Centre
+Mary Pack Arthritis Centre
+Mount Saint Joseph Hospital
+St. Paul's Hospital
+Vancouver Hospital and Health Sciences Centre
+Vancouver General Hospital
+Vernon Jubilee Hospital
+Royal Jubilee Hospital
+Victoria General Hospital
+Peace Arch Hospital
+
+==Manitoba==
+Brandon Regional Health Centre
+Bethesda Hospital
+The Children's Hospital of Winnipeg
+Concordia Hospital
+Deer Lodge Centre
+Grace Hospital
+Health Sciences Centre
+Misericordia Health Centre
+Riverview Health Centre
+Saint Boniface General Hospital
+Seven Oaks General Hospital
+Victoria General Hospital
+
+==New Brunswick==
+Janeway Children's Health and Rehabilitation Centre
+
+==Northwest Territories==
+Hay River Regional Health Centre
+Inuvik Regional Hospital
+Stanton Territorial Hospital
+
+==Nova Scotia==
+Eastern Memorial Hospital
+Digby General Hospital
+Glace Bay Hospital
+Guysborough Memorial Hospital
+Dartmouth General Hospital
+East Coast Forensic Hospital
+Nova Scotia Hospital
+IWK Health Centre
+Queen Elizabeth II Health Sciences Centre
+Musquodoboit Valley Memorial Hospital
+Hants Community Hospital
+Inverness Consolidated Memorial Hospital
+Fishermen's Memorial Hospital
+Soldiers Memorial Hospital
+Aberdeen HospitalSheet Harbour
+Eastern Shore Memorial Hospital
+All Saints Springhill Hospital
+Cape Breton Regional Hospital
+Harbourview Hospital
+Lillian Fraser Memorial Hospital
+Yarmouth Regional Hospital
+
+==Nunavut==
+Qikiqtani General Hospital
+
+==Ontario==
+Lakeridge Health Ajax and Pickering
+Stevenson Memorial Hospital
+Royal Victoria Regional Health Centre
+Lakeridge Health Bowmanville
+Brampton Civic Hospital
+Brampton Memorial Hospital Campus
+Joseph Brant Hospital
+Campbellford Memorial Hospital
+Cambridge Memorial Hospital
+Northumberland Hills Hospital
+Collingwood General and Marine Hospital
+Georgetown Hospital
+West Lincoln Memorial Hospital
+Hamilton Health Sciences
+McMaster Children's Hospital
+St. Peter's Hospital (Hamilton)
+St. Joseph's Healthcare Hamilton
+Kingston General Hospital
+Providence Continuing Care Centre
+Kirkland and District Hospital
+Grand River Hospital
+St. Mary's General Hospital
+London Health Sciences Centre
+Children's Hospital at London Health Sciences Centre
+University Hospital
+Victoria Hospital
+Grey Bruce Health Services
+Grey Bruce Health Services
+Milton District Hospital
+Credit Valley Hospital
+Mississauga Hospital
+Oakville-Trafalgar Memorial Hospital
+Headwaters Health Care Centre
+Lakeridge Health Oshawa
+Children's Hospital of Eastern Ontario
+Montfort Hospital
+National Defence Medical Centre
+The Ottawa Hospital
+Civic Hospital
+General Hospital
+Riverside Hospital
+Queensway Carleton Hospital
+University of Ottawa Heart Institute
+Royal Ottawa Mental Health Centre
+Grey Bruce Health Services
+Peterborough Regional Health Centre
+Lakeridge Health Port Perry
+Bluewater Health
+Sault Area Hospital
+Health Sciences North
+Thunder Bay Regional Health Sciences Centre
+Baycrest Health Sciences
+Centre for Addiction and Mental Health
+Etobicoke General Hospital
+Hospital for Sick Children
+Humber River Regional Hospital
+Michael Garron Hospital
+North York General Hospital
+Queensway Health Centre
+Scarborough Health Network
+Birchmount Hospital
+Centenary Hospital
+Scarborough General Hospital
+Sinai Health System
+Bridgepoint Active Healthcare
+Mount Sinai Hospital
+St. John's Rehab Hospital
+St. Joseph's Health Centre
+St. Michael's Hospital
+Sunnybrook Health Sciences Centre
+Toronto Grace Health Centre
+University Health Network
+Princess Margaret Cancer Centre
+Toronto General Hospital
+Toronto Rehabilitation Institute
+Toronto Western Hospital
+Women's College Hospital
+Uxbridge Cottage Hospital
+Grey Bruce Health Services
+Cortellucci Vaughan Hospital
+Mackenzie Richmond Hill Hospital
+Markham Stouffville Hospital
+Shouldice Hernia Centre
+Southlake Regional Health Centre
+
+==Prince Edward Island==
+Hillsborough Hospital
+Queen Elizabeth Hospital
+Prince County Hospital
+
+==Quebec==
+Jewish Rehabilitation Hospital
+Hôpital Charles-LeMoyne
+Centre hospitalier Pierre-Boucher
+McGill University Health Centre
+Royal Victoria Hospital
+Montreal Children's Hospital
+Shriners Hospital for Children
+Montreal Chest Institute
+Montreal General Hospital
+Allan Memorial Institute
+Montreal Neurological Hospital
+Hôpital de Lachine
+Lakeshore General Hospital
+Jewish General Hospital
+St. Mary's Hospital
+Douglas Mental Health University Institute
+Centre hospitalier de l'Université de Montréal
+Hopital Notre-Dame
+Hôpital Maisonneuve-Rosemont
+Hôpital du Sacré-Coeur de Montréal
+Centre hospitalier universitaire Sainte-Justine
+Institut de cardiologie de Montréal
+Institut universitaire en santé mentale de Montréal
+Institut Philippe-Pinel de Montréal
+Hôpital Santa-Cabrini
+Hôpital de Verdun
+Hôpital de LaSalle
+Hôpital Jean-Talon
+Hôpital Rivière-des-Prairies
+Centre hospitalier Honoré-Mercier
+Centre hospitalier universitaire de Québec
+Hôtel-Dieu de Québec
+Hôpital Saint-François d'Assise
+Centre hospitalier de l'Université Laval
+
+==Saskatchewan==
+Humboldt District Hospital
+Pasqua Hospital
+Regina General Hospital
+Wascana Rehabilitation Centre
+Royal University Hospital
+Saskatoon City Hospital
+St. Paul's Hospital
+
+==Yukon==
+Whitehorse General Hospital
